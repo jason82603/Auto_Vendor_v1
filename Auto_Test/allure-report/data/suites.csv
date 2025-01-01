@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"進入官網後等QuickLink出現後截圖","1468","test_fistpage_screenshot","tests.Web","Tue Dec 31 01:10:56 CST 2024","passed","Tue Dec 31 01:10:58 CST 2024","Test","test_Auto_Vendor_v1","",""
+"個人金融 > 產品介紹 > 信用卡 > 卡片介紹 > 計算頁面上所有(停發)信用卡數量並截圖","22226","test_count_stop_creditcard_items","tests.Web","Tue Dec 31 01:11:06 CST 2024","passed","Tue Dec 31 01:11:28 CST 2024","Test","test_Auto_Vendor_v1","",""
+"點選左上角選單，進入 個人金融 > 產品介紹 > 信用卡列表，需計算有幾個項目並將畫面截圖","8296","test_count_creditcard_items","tests.Web","Tue Dec 31 01:10:58 CST 2024","passed","Tue Dec 31 01:11:06 CST 2024","Test","test_Auto_Vendor_v1","",""

@@ -1,0 +1,10 @@
+INFO     root:test_Auto_Vendor_v1.py:52 starting test_Auto_Vendor_v1.py
+INFO     root:Elements.py:119 ['Frontend', 'BankTypeMenu'] - WaitClickEle Success
+INFO     root:Elements.py:119 ['Frontend', 'BankTypeMenu_item1'] - WaitClickEle Success
+INFO     root:Elements.py:119 ['Frontend', 'ProductIntroduceMenu'] - WaitClickEle Success
+INFO     root:Elements.py:119 ['Frontend', 'CardIntroduce'] - WaitClickEle Success
+INFO     root:Elements.py:335 script Swipe_Down to Bottom Success
+INFO     root:Elements.py:293 ['Frontend', 'CardStop_Menu'] - 選定成功
+INFO     root:Elements.py:303 找到 10 个符合条件的元素
+INFO     root:test_Auto_Vendor_v1.py:68 end test_Auto_Vendor_v1.py
+INFO     root:test_Auto_Vendor_v1.py:20 teardown_method: 每个用例结束后执行

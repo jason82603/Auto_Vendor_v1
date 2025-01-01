@@ -1,0 +1,57 @@
+Frontend:
+# --- 前台 ---
+  Html:
+    type: xpath
+    value: /html
+    time: 1
+    dealError: True
+
+  QuickLink:
+    type: xpath
+    value: //*[@class='cubre-o-quickLink']
+    time: 1
+    dealError: True
+
+  BankTypeMenu:
+    type: xpath
+    value: //*[@class='cubre-o-menu -channel']/div
+    time: 1
+    dealError: True
+
+  BankTypeMenu_item1:
+    type: xpath
+    value: //*[@class='cubre-o-channel']/div[1]
+    time: 1
+    dealError: True
+
+  ProductIntroduceMenu:
+    type: xpath
+    value: //*[@class='cubre-o-nav__content']/div[1]/div/div[1]
+    time: 1
+    dealError: True
+
+  CreditCardMenu:
+    type: xpath
+    value: //*[@class='cubre-o-nav__content']/div[1]/div/div[1]/div[2]/div/div[1]
+    time: 1
+    dealError: True
+
+  CreditCardMenu_a:
+    type: xpath
+    value: //*[@class='cubre-o-nav__content']/div[1]/div/div[1]/div[2]/div/div[1]//a
+    time: 1
+    dealError: True
+
+  CardIntroduce:
+    type: xpath
+    value: //*[@class='cubre-o-nav__content']/div[1]/div/div[1]/div[2]/div/div[1]/div[2]/a[1]
+    time: 1
+    dealError: True
+
+  CardStop_Menu:
+    type: xpath
+    value: //*[@class='cubre-o-main']/article/section[6]/div/div[2]
+    time: 1
+    dealError: True
+
+

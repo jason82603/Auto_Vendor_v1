@@ -1,0 +1,10 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [C:\Users\jason\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver.exe] found in cache
+INFO     root:Elements.py:316 https://www.cathaybk.com.tw/cathaybk/，GoToWindow Success
+INFO     root:test_Auto_Vendor_v1.py:25 starting test_Auto_Vendor_v1.py
+INFO     root:Elements.py:234 國泰世華銀行官網_2024-12-31 - Screenshot Success
+INFO     root:Elements.py:250 ['Frontend', 'QuickLink'] - WaitClickEle Success
+INFO     root:test_Auto_Vendor_v1.py:29 end test_Auto_Vendor_v1.py
+INFO     root:test_Auto_Vendor_v1.py:20 teardown_method: 每个用例结束后执行

@@ -1,0 +1,28 @@
+2024:12:31 01:10:52 - logger.py - logger - log - 11 - INFO - ====== WebDriver manager ======
+2024:12:31 01:10:53 - logger.py - logger - log - 11 - INFO - Get LATEST chromedriver version for google-chrome
+2024:12:31 01:10:53 - logger.py - logger - log - 11 - INFO - Get LATEST chromedriver version for google-chrome
+2024:12:31 01:10:54 - logger.py - logger - log - 11 - INFO - Driver [C:\Users\jason\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver.exe] found in cache
+2024:12:31 01:10:56 - Elements.py - Elements - GoToWindow - 316 - INFO - https://www.cathaybk.com.tw/cathaybk/，GoToWindow Success
+2024:12:31 01:10:56 - test_Auto_Vendor_v1.py - test_Auto_Vendor_v1 - test_fistpage_screenshot - 25 - INFO - starting test_Auto_Vendor_v1.py
+2024:12:31 01:10:58 - Elements.py - Elements - Screenshot - 234 - INFO - 國泰世華銀行官網_2024-12-31 - Screenshot Success
+2024:12:31 01:10:58 - Elements.py - Elements - WaitScreenShot - 250 - INFO - ['Frontend', 'QuickLink'] - WaitClickEle Success
+2024:12:31 01:10:58 - test_Auto_Vendor_v1.py - test_Auto_Vendor_v1 - test_fistpage_screenshot - 29 - INFO - end test_Auto_Vendor_v1.py
+2024:12:31 01:10:58 - test_Auto_Vendor_v1.py - test_Auto_Vendor_v1 - teardown_method - 20 - INFO - teardown_method: 每个用例结束后执行
+2024:12:31 01:10:58 - test_Auto_Vendor_v1.py - test_Auto_Vendor_v1 - test_count_creditcard_items - 34 - INFO - starting test_Auto_Vendor_v1.py
+2024:12:31 01:11:00 - Elements.py - Elements - WaitClickEle - 119 - INFO - ['Frontend', 'BankTypeMenu'] - WaitClickEle Success
+2024:12:31 01:11:03 - Elements.py - Elements - WaitClickEle - 119 - INFO - ['Frontend', 'BankTypeMenu_item1'] - WaitClickEle Success
+2024:12:31 01:11:05 - Elements.py - Elements - WaitClickEle - 119 - INFO - ['Frontend', 'ProductIntroduceMenu'] - WaitClickEle Success
+2024:12:31 01:11:06 - Elements.py - Elements - WaitScreenshot_ele - 268 - INFO - 信用卡選單截圖_2024-12-31 - Screenshot Success
+2024:12:31 01:11:06 - test_Auto_Vendor_v1.py - test_Auto_Vendor_v1 - test_count_creditcard_items - 46 - INFO - 有9項目在信用卡選單下面
+2024:12:31 01:11:06 - test_Auto_Vendor_v1.py - test_Auto_Vendor_v1 - test_count_creditcard_items - 47 - INFO - end test_Auto_Vendor_v1.py
+2024:12:31 01:11:06 - test_Auto_Vendor_v1.py - test_Auto_Vendor_v1 - teardown_method - 20 - INFO - teardown_method: 每个用例结束后执行
+2024:12:31 01:11:06 - test_Auto_Vendor_v1.py - test_Auto_Vendor_v1 - test_count_stop_creditcard_items - 52 - INFO - starting test_Auto_Vendor_v1.py
+2024:12:31 01:11:08 - Elements.py - Elements - WaitClickEle - 119 - INFO - ['Frontend', 'BankTypeMenu'] - WaitClickEle Success
+2024:12:31 01:11:11 - Elements.py - Elements - WaitClickEle - 119 - INFO - ['Frontend', 'BankTypeMenu_item1'] - WaitClickEle Success
+2024:12:31 01:11:13 - Elements.py - Elements - WaitClickEle - 119 - INFO - ['Frontend', 'ProductIntroduceMenu'] - WaitClickEle Success
+2024:12:31 01:11:16 - Elements.py - Elements - WaitClickEle - 119 - INFO - ['Frontend', 'CardIntroduce'] - WaitClickEle Success
+2024:12:31 01:11:17 - Elements.py - Elements - Swipe_Down - 335 - INFO - script Swipe_Down to Bottom Success
+2024:12:31 01:11:17 - Elements.py - Elements - Return_element - 293 - INFO - ['Frontend', 'CardStop_Menu'] - 選定成功
+2024:12:31 01:11:17 - Elements.py - Elements - Search_elements - 303 - INFO - 找到 10 个符合条件的元素
+2024:12:31 01:11:28 - test_Auto_Vendor_v1.py - test_Auto_Vendor_v1 - test_count_stop_creditcard_items - 68 - INFO - end test_Auto_Vendor_v1.py
+2024:12:31 01:11:28 - test_Auto_Vendor_v1.py - test_Auto_Vendor_v1 - teardown_method - 20 - INFO - teardown_method: 每个用例结束后执行
